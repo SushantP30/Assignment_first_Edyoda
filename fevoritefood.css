@@ -1,0 +1,66 @@
+#topbar{
+    background-color: hsla(125, 100%, 50%, 0.827);
+    padding: 25px;
+}
+.menu-item{
+    font-size: 24px;
+    padding: 8px;
+    font-weight: 600;
+}
+h2{
+    display: block;
+    font-weight: bold;
+    margin-block-start: 5px;
+    padding: 10px;
+    
+}
+.main-page{
+    background-color:rgba(142, 147, 148, 0.129);
+}
+.list-heading{
+    font-size: 20px;
+}
+.item-images{
+   text-align: center;
+
+}
+.img-heading{
+    font-weight: 20px;
+}
+.image-items{
+    width: 500px;
+}
+span:hover{
+    background-color: blueviolet;
+}
+.button-box{
+    display: flex;
+    justify-content:end;
+    font-size: 40px;
+}
+.edit{
+background-color: blue;
+text-align: center;
+color: white;
+font-size: 10px;
+font-weight: 400;
+height: 50px;
+}
+.sign{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+}
+.log{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+
+}
+button:hover{
+    background-color: blueviolet;
+}
